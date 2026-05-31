@@ -13,7 +13,7 @@ I am a passionate **Team Lead & Full Stack Developer** with over 3 years of prof
 - 🔭 I’m currently working on advanced enterprise solutions at **Triflex Media**.
 - 🌱 I’m constantly exploring new cloud patterns, microservices architecture, and optimized database indexing.
 - 💬 Ask me about **Next.js, NestJS, Supabase, Microservices, and Team Leadership**.
-- 📫 Reach out to me: **[saad@triflexmedia.com](mailto:saad@triflexmedia.com)**
+- 📫 Reach out to me: **[muhammadsaadc49@gmail.com](mailto:muhammadsaadc49@gmail.com)**
 
 ---
 
